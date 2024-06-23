@@ -1,5 +1,5 @@
 # ClassificationOfLowOrderIdemHomGroups
-The Code is used to help classify lower order idempotent hom-groups
+The Code is used to help classify lower order idempotent hom-groups https://www.researchgate.net/publication/381614073_ON_THE_CLASSIFICATION_OF_LOWER_ORDER_IDEMPOTENT_HOM-GROUPS?_sg%5B0%5D=upPMJ_AkZtaL6H-m9g1n-8sVJFZL9qwVmcWCsjGUJJmHZ2fEw1jWU_4TjijtRJLlVfVJ1Fpxkt76TaVXnnoq7j5wXW66-k22R-Y0iR5S.tUz1M1SlwP2Y4WACcczk4LFbO_6jAK6aMf0Ve89LRwBpBlMOaP8h3URFs0XpbJrsSYhUKjXEHfSXVCGv9IfCjA&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19
 ## These codes are attached to the paper "on the classification of lower order idempotent hom-groups". 
 
 A file beginning with "recog" indicates that the code is used to find out the structure that constitutes a idempotent hom-group, "Xorder" indicates that the order of the idempotent hom-groups being processed is X, and the number followed by "Xorder" indicates several parts in the corresponding paper. A file beginning with "iso" indicates that the code is used to find the isomorphic class.
